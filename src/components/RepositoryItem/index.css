@@ -1,0 +1,35 @@
+.repo-item {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 150px;
+  margin: 5px;
+  background-color: #f8f8ff;
+  padding: 5px;
+}
+
+.avatar-url {
+  width: 75px;
+  height: 75px;
+  align-self: center;
+}
+.name {
+  color: red;
+  font-weight: 600;
+  align-self: center;
+  font-size: 19px;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+  margin-right: 2px;
+}
+.icon-text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

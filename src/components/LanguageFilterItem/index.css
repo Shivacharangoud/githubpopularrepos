@@ -1,0 +1,17 @@
+.list-item {
+  margin: 3px;
+}
+.buttonn {
+  border-width: 0px;
+  border-radius: 7px;
+  border-color: #ffffff;
+  padding: 5px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.button-on-click {
+  color: blueviolet;
+  border-color: blueviolet;
+  border-width: 1px;
+  border-style: solid;
+}
